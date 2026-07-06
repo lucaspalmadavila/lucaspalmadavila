@@ -58,6 +58,21 @@ Sou Analista de Dados e Especialista em Business Intelligence (BI), com sólida 
 
 ---
 
+## 🚀 Projetos e Resultados em Destaque
+
+### 🔹 Engenharia de Dados & Migração para Nuvem
+- **Escopo:** Liderança na migração completa de infraestrutura de dados locais para ambiente em nuvem (SharePoint/Azure), garantindo governança de dados, escalabilidade e conformidade com a LGPD.
+- **Tecnologias:** Python, Azure, SharePoint, Pipelines de ETL.
+
+### 🔹 Automação de Pipelines e Análise Preditiva
+- **Escopo:** Desenvolvimento de soluções em Python para automação de rotinas de inteligência estratégica e modelagem de cenários preditivos aplicados a previsões de demanda.
+- **Impacto:** Redução de **90%** no tempo do ciclo de planejamento, eliminando falhas manuais e retrabalho.
+
+### 🔹 Ecossistemas de BI para Tomada de Decisão Estratégica
+- **Escopo:** Estruturação de painéis gerenciais e dashboards avançados em Power BI para monitoramento de indicadores comerciais, rentabilidade e controle rigoroso de custos.
+- **Impacto:** Redução de **80%** no tempo de reporte e análise de dados, servindo de suporte consultivo direto à diretoria.
+
+---
 ## 📫 Contato
 <div align="left">
   <a href="https://www.linkedin.com/in/lucasandersondavila/" target="blank">

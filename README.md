@@ -4,7 +4,7 @@
 
 Sou Analista de Dados e Especialista em Business Intelligence (BI), com sólida experiência em conectar dados complexos a decisões estratégicas de negócio. Possuo forte expertise no desenvolvimento de ecossistemas de dashboards em Power BI, modelagem e arquitetura de dados, e criação de fluxos automatizados (ETL). Unindo visão analítica a habilidades técnicas em SQL e Python, atuo transformando grandes volumes de dados em KPIs de alto impacto, gerando eficiência, redução de custos e suporte consultivo direto para a alta gestão (C-Level).
 
-### Formações Acadêmicas 
+### Formação Acadêmica
 
 -  Graduando em Análise e Desenvolvimento de Sistemas - [UNISINOS](https://www.unisinos.br) (Previsão: Dez/2027)
 -  Pós-Graduando em Arquitetura de Dados - [Data Science Academy](https://www.datascienceacademy.com.br) (Previsão: Nov/2026)
@@ -72,7 +72,28 @@ Sou Analista de Dados e Especialista em Business Intelligence (BI), com sólida 
 - **Escopo:** Estruturação de painéis gerenciais e dashboards avançados em Power BI para monitoramento de indicadores comerciais, rentabilidade e controle rigoroso de custos.
 - **Impacto:** Redução de **80%** no tempo de reporte e análise de dados, servindo de suporte consultivo direto à diretoria.
 
----
+#### 🖥️ Galeria de Projetos (Power BI)
+
+#### 📊 Dashboard de Cotações em Tempo Real
+> **Foco:** Monitoramento ágil de requisições, oscilações de mercado, garantindo acuracidade e agilidade no processo de suprimentos e comercial.
+  *Dados fictícios
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lucaspalmadavila/Portfolio/main/Captura%20de%20tela%202026-07-06%20171707.png" alt="Dashboard de Cotações" width="85%">
+</div>
+
+#### 📈 Dashboard de Indicadores Gerenciais e Operacionais
+> **Foco:** Centralização de KPIs estratégicos de performance, análise de desvios (Budget vs. Forecast) e controle de custos para suporte consultivo ao C-Level.
+> 
+> ⚠️ *Nota: Desenvolvido utilizando apenas dados fictícios para fins de demonstração de portfólio.*
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lucaspalmadavila/Portfolio/main/Captura%20de%20tela%202026-07-06%20172103.png" alt="Dashboard de Indicadores" width="85%">
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lucaspalmadavila/Portfolio/main/Captura%20de%20tela%202026-07-06%20201840.png" alt="Dashboard de Performance Comercial" width="85%">
+</div>
+
 ## 📫 Contato
 <div align="left">
   <a href="https://www.linkedin.com/in/lucasandersondavila/" target="blank">

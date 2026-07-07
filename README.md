@@ -2,7 +2,7 @@
 
 # Olá! Eu sou o Lucas D'Avila 👋
 
-Sou Analista de Dados e Especialista em Business Intelligence (BI), com sólida experiência em conectar dados complexos a decisões estratégicas de negócio. Possuo forte expertise no desenvolvimento de ecossistemas de dashboards em Power BI, modelagem e arquitetura de dados, e criação de fluxos automatizados (ETL). Unindo visão analítica a habilidades técnicas em SQL e Python, atuo transformando grandes volumes de dados em KPIs de alto impacto, gerando eficiência, redução de custos e suporte consultivo direto para a alta gestão (C-Level).
+Sou Analista de Dados e com forte experiência em Business Intelligence, com sólida experiência em conectar dados complexos a decisões estratégicas de negócio. Possuo forte expertise no desenvolvimento de ecossistemas de dashboards em Power BI, modelagem e arquitetura de dados, e criação de fluxos automatizados (ETL). Unindo visão analítica a habilidades técnicas em SQL e Python, atuo transformando grandes volumes de dados em KPIs de alto impacto, gerando eficiência, redução de custos e suporte consultivo direto para a alta gestão (C-Level).
 
 ### Formação Acadêmica
 

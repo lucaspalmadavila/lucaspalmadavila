@@ -74,11 +74,11 @@ Sou Analista de Dados e com forte experiência em Business Intelligence, com só
 
 #### 🖥️ Galeria de Projetos (Power BI)
 
-#### 📊 Dashboard de Cotações em Tempo Real
+#### 📊 Dashboard de Cotações Comerciais
 > **Foco:** Monitoramento ágil de requisições, oscilações de mercado, garantindo acuracidade e agilidade no processo de suprimentos e comercial.
   *Dados fictícios
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lucaspalmadavila/Portfolio/main/Captura%20de%20tela%202026-07-06%20171707.png" alt="Dashboard de Cotações" width="85%">
+  <img src="https://raw.githubusercontent.com/lucaspalmadavila/BI/main/Acompanhamento%20de%20Cota%C3%A7%C3%B5es%20Comerciais.png" alt="Dashboard de Cotações Comerciais" width="85%">
 </div>
 
 #### 📈 Dashboard de Indicadores Gerenciais e Operacionais
@@ -87,11 +87,32 @@ Sou Analista de Dados e com forte experiência em Business Intelligence, com só
 > ⚠️ *Nota: Desenvolvido utilizando apenas dados fictícios para fins de demonstração de portfólio.*
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lucaspalmadavila/Portfolio/main/Captura%20de%20tela%202026-07-06%20172103.png" alt="Dashboard de Indicadores" width="85%">
+  <img src="https://raw.githubusercontent.com/lucaspalmadavila/BI/main/KPI%20Comercial.png" alt="Dashboard KPI Comercial" width="85%">
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lucaspalmadavila/Portfolio/main/Captura%20de%20tela%202026-07-06%20201840.png" alt="Dashboard de Performance Comercial" width="85%">
+  <img src="https://raw.githubusercontent.com/lucaspalmadavila/BI/main/KPI%20Comercial%20-%20Clientes.png" alt="Dashboard KPI Comercial - Clientes" width="85%">
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lucaspalmadavila/BI/main/Modelo%20Star.png" alt="Modelo Star Schema" width="85%">
+</div>
+
+#### ⚖️ Dashboard de KPIs Jurídicos
+> **Foco:** Centralização e monitoramento analítico de processos judiciais, contingenciamento financeiro e performance de bancas advocatícias para mitigação de riscos operacionais e suporte à tomada de decisão do departamento jurídico.
+> ⚠️ *Nota: Desenvolvido utilizando apenas dados fictícios para fins de demonstração de portfólio.*
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lucaspalmadavila/BI/main/KPIs%20Juridicos%201.png" alt="Dashboard KPIs Jurídicos" width="85%">
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lucaspalmadavila/BI/main/KPIs%20Juridicos%202.png" alt="Dashboard KPIs Jurídicos - Detalhes" width="85%">
+</div>
+
+> **Provisão utilizando Python e XGboost**
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lucaspalmadavila/BI/main/Base%20KPIs%20Juridicos.png" alt="Base KPIs Jurídicos" width="85%">
 </div>
 
 ## 📫 Contato

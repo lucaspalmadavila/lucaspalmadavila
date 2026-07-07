@@ -98,7 +98,7 @@ Sou Analista de Dados e com forte experiência em Business Intelligence, com só
   <img src="https://raw.githubusercontent.com/lucaspalmadavila/BI/main/Modelo%20Star.png" alt="Modelo Star Schema" width="85%">
 </div>
 
-#### ⚖️ Dashboard de KPIs Jurídicos
+#### ⚖️ Teste Técnico de KPIs Jurídicos 
 > **Foco:** Centralização e monitoramento analítico de processos judiciais, contingenciamento financeiro e performance de bancas advocatícias para mitigação de riscos operacionais e suporte à tomada de decisão do departamento jurídico.
 > ⚠️ *Nota: Desenvolvido utilizando apenas dados fictícios para fins de demonstração de portfólio.*
 <div align="center">

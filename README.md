@@ -6,7 +6,7 @@ Sou Analista de Dados e com forte experiência em Business Intelligence, com só
 
 ### Formação Acadêmica
 
--  Graduando em Análise e Desenvolvimento de Sistemas - [UNISINOS](https://www.unisinos.br) (Previsão: Dez/2027)
+-  Graduando em Análise e Desenvolvimento de Sistemas - [Universidade La Salle](Previsão: Dez/2027)
 -  Pós-Graduando em Arquitetura de Dados - [Data Science Academy](https://www.datascienceacademy.com.br) (Previsão: Nov/2026)
 -  MBA em Inteligência de Negócios e Ciência de Dados - [Ulbra](https://www.ulbra.br) (Concluído)
 -  MBA em Gestão Financeira - [UniRitter](https://www.uniritter.edu.br) (Concluído)

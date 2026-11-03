@@ -117,7 +117,7 @@ Sou Analista de Dados e com forte experiência em Business Intelligence, com só
 
 ## 📫 Contato
 <div align="left">
-  <a href="https://www.linkedin.com/in/lucasandersondavila/" target="blank">
+  <a href="https://www.linkedin.com/in/lucaspalmadavila/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
   </a>
 
